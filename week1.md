@@ -4,6 +4,6 @@ title: Week 1
 author: Michael Adeleke
 ---
 ## The Beginning
-  After going through week one I can honestly say I had a great first week. I love how accomodating and clear that Dr. Mack, the faculty mentors, and the graduate mentors have been. I really appreciate everything theyve done and look forward to the rest of the time here. So far its been mainly an orientation/preparation week but I still learned a lot. 
+  After going through week one I can honestly say I had a great first week. I love how accomodating and clear that Dr. Mack, the faculty mentors, and the graduate mentors have been. I really appreciate everything theyve done and look forward to the rest of the time here. So far its been mainly an orientation/preparation week but I still learned a lot. Going through the week we first started off with introductions which gave a great overview of the schedule, expectations, and what good research practice was. Im going to add the dates and expectations to my calendar to make sure im organized and to  W, and then a presentation on what AI Research was which was very good. It w
 
 [Back](./)
