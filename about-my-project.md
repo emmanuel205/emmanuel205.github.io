@@ -1,15 +1,15 @@
 ## About My Project
 
-mBot Neo
+CodeWiz: Level Up Your Code
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: There are many tutoring systems out here that teach certain concepts but were trying to create one that adapts to the individual users learning style.
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
+  - Uses HTML, Javascript, React, and CSS to code together the tutoring system.
+  - Creates a system that adapts to the user.(Still learning how to do that)
+  - As we keep on going I will add more to this slide. 
 
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+Expected Outcome: The project is expected to result in an intelligent tutoring system that teaches python while adapting to the learning style of the individual user.
 
 
